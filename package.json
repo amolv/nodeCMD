@@ -1,0 +1,23 @@
+{
+  "name": "unixcmsndoeapp",
+  "version": "1.0.0",
+  "description": "Test ENV commands in node app!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amolv/nodeCMD.git"
+  },
+  "keywords": [
+    "unix",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amolv/nodeCMD/issues"
+  },
+  "homepage": "https://github.com/amolv/nodeCMD#readme"
+}
