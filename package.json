@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/amolv/nodeCMD/issues"
   },
-  "homepage": "https://github.com/amolv/nodeCMD#readme"
+  "homepage": "https://github.com/amolv/nodeCMD#readme",
+  "dependencies": {
+    "connect": "^3.6.2"
+  }
 }
